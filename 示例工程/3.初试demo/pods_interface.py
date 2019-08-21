@@ -1,4 +1,4 @@
-from flask import Flask, url_for ,make_response
+from flask import Flask, url_for
 from utils import sql_helper
 import json
 
